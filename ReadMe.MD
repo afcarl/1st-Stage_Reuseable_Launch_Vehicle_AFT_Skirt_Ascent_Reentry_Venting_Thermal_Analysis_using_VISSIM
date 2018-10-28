@@ -5,7 +5,7 @@
 ## 1st-Stage Reuseable Launch Vehicle AFT Skirt Ascent/Reentry Venting Thermal Analysis using VISSIM.
 
 ##
-## I. Operation: "./VISSIM/First_Stage_Ascent_Reentry_AFT_Skirt_Venting_Thermal_Analysis"
+## I. Operation: "./VISSIM/First_Stage_Ascent_Reentry_AFT_Skirt_Venting_Thermal_Analysis.vsm"
 
 ##
 ## II. Temperature vs. Time:
